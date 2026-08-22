@@ -1,0 +1,351 @@
+Arquivo,Offset,Antes,Depois
+GROUP01.BIN,0x4A484,Kaoru^c É... mas antes vamos tentar usar^c a bola de cristal!,Kaoru^c É... mas antes vamos tentar usar^c o cristal!
+GROUP01.BIN,0x4A598,"Kaoru^c Então a bola de cristal é mesmo a^c chave. Com ela, podemos libertar^c quem está sendo controlado.","Kaoru^c Então o cristal é mesmo a^c chave. Com ele, podemos libertar^c quem está sendo controlado."
+GROUP01.BIN,0x4A630,Kaoru^c Que barulho é esse!? A bola de^c cristal está vibrando!?,Kaoru^c Que barulho é esse!? O cristal^c está vibrando!?
+GROUP01.BIN,0x4A6BC,"Kaoru^c Mesmo assim, a bola de cristal é^c mesmo a chave. Com ela, podemos^c libertar quem está sendo^c controlado.","Kaoru^c Mesmo assim, o cristal é^c mesmo a chave. Com ele, podemos^c libertar quem está sendo^c controlado."
+GROUP01.BIN,0x4A7F0,Midori^c Vocês expulsaram a gente e ainda^c roubaram a bola de cristal do^c mestre Nezu!,Midori^c Vocês expulsaram a gente e ainda^c roubaram o cristal do^c mestre Nezu!
+GROUP01.BIN,0x4B5C8,c6Sanosuke Sagarac7 entrou no grupo!^cc6Fragmento Ro 3c7 obtido!!,c6Sanosuke Sagarac7 entrou no grupo!^cc6Frag. Ro-3c7 obtido!!
+GROUP01.BIN,0x4BDB4,c6Fruto vermelhoc7 obtido!,c6Fruto rubroc7 obtido!
+GROUP01.BIN,0x4C434,Quer receber o fruto vermelho?^s,Quer receber o fruto rubro?^s
+GROUP01.BIN,0x4CF2C,"Gonta^c Há vários itens que você pode^c usar em batalha. Se aprender a^c usar Erva Amarela e Feijão de^c Bambu, suas chances de vencer vão^c subir muito!","Gonta^c Há vários itens que você pode^c usar em batalha. Se aprender a^c usar Erva amarela e Grão^c damasco, suas chances de vencer vão^c subir muito!"
+GROUP01.BIN,0x4DD78,Misuzu^c Bem-vindo! Quer legumes^c fresquinhos direto da roça? A^c recomendação de hoje é um^c alimento saudável: um fruto^c vermelho que também serve de^c remédio.,Misuzu^c Bem-vindo! Quer legumes^c fresquinhos direto da roça? A^c recomendação de hoje é um^c alimento saudável: um fruto^c rubro que também serve de^c remédio.
+GROUP01.BIN,0x4E0C8,"Torajiro^c Se estiver à beira da morte,^c gordura de urso ajuda mais que^c tintura hemostática.","Torajiro^c Se estiver à beira da morte,^c óleo de urso ajuda mais que^c tintura."
+GROUP02.BIN,0x314C8,Você recebeu c6grama de couroc7!,Você recebeu c6Erva de couroc7!
+GROUP02.BIN,0x3211E,"fuMegumi^c Alguém está com tosse? Para preparar o remédio, preciso de 'flor roxa' e 'fruto vermelho'. ^N, traga  os dois para mim.","fuMegumi^c Alguém está com tosse? Para preparar o remédio, preciso de 'flor roxa' e 'fruto rubro'. ^N, traga  os dois para mim."
+GROUP02.BIN,0x321A4,Megumi^c 'Flor roxa' e 'fruto vermelho'. Não se confunda.,Megumi^c 'Flor roxa' e 'fruto rubro'. Não se confunda.
+GROUP02.BIN,0x32308,Você recebeu c6remédio preparadoc7!,Você recebeu c6Rem. prontoc7!
+GROUP02.BIN,0x3238B,SVocê entregou a c6flor do jardim       subterrâneoc7!,SVocê entregou a c6Flor subsoloc7!
+GROUP02.BIN,0x32BD4,Você recebeu c6raiz azulc7!,Você recebeu c6Raiz azulc7!
+GROUP02.BIN,0x32BF1,^N.Você recebeu c6fruto brancoc7!,^N.Você recebeu c6Fruto brancoc7!
+GROUP02.BIN,0x32FF0,Kaoru^c Que flores bonitas nesse fruto      branco!,Kaoru^c Que flores bonitas nesse fruto branco!
+GROUP02.BIN,0x3331D,bukDr. Gensai^c Flor roxa e fruto vermelho? Crianças do cortiço adoram a flor roxa. Às   vezes há frutos vermelhos na         quitanda.,bukDr. Gensai^c Flor roxa e fruto rubro? Crianças do cortiço adoram a flor roxa. Às   vezes há frutos vermelhos na         quitanda.
+GROUP02.BIN,0x3344E, LVocê recebeu c6remédio da Megumic7!, LVocê recebeu c6Rem. Megumic7!
+GROUP03.BIN,0x37D64,c6Metade R-1 c7obtida!!,c6Frag. Ro-1 c7obtida!!
+GROUP04.BIN,0x22D04,c6Kyochikutoc7 obtido!,c6Grão damascoc7!
+GROUP04.BIN,0x22D1C,c6Tenmondoc7 obtido!,c6Raiz aspargoc7!
+GROUP04.BIN,0x22D34,c6Kusanoc7 obtido!,c6Erva amarelac7!
+GROUP04.BIN,0x22D64,Não cabe mais c6Kyochikutoc7.,Sem espaço: c6Grão damascoc7.
+GROUP04.BIN,0x22D84,Não cabe mais c6Tenmondoc7.,Sem espaço: c6Raiz aspargoc7.
+GROUP04.BIN,0x22DA4,Não cabe mais c6Kusanoc7.,Limite: c6Erva amarelac7.
+GROUP04.BIN,0x22E50,c6Gyukakusoc7 obtido!,c6Erva de couroc7!
+GROUP04.BIN,0x22E68,Não cabe mais c6Gyukakusoc7.,Não cabe mais c6Erva de couroc7.
+GROUP05.BIN,0x20CAC,c6Pílula de Garançac7 obtida!,c6Pílula rubrac7 obtida!
+GROUP05.BIN,0x20CCC,c6Erva Couro-de-Boic7 obtida!,c6Erva de couroc7 obtida!
+GROUP05.BIN,0x20CEC,c6Guarnição de Vanguardac7 obtida!,c6Guarn. vang.c7 obtida!
+GROUP05.BIN,0x20D14,c6Obra-Prima Anônimac7 obtida!,c6Obra anônimac7 obtida!
+GROUP05.BIN,0x20D48,Não pode levar mais c6Pílulas de Garançac7.,Não pode levar mais c6Pílula rubrac7.
+GROUP05.BIN,0x20D78,Não pode levar mais c6Ervas Couro-de-Boic7.,Não pode levar mais c6Erva de couroc7.
+GROUP05.BIN,0x20DA8,Não pode levar mais c6Guarnições de Vanguardac7.,Não pode levar mais c6Guarn. vang.c7.
+GROUP05.BIN,0x20DDC,Não pode levar mais c6Obras-Primas Anônimasc7.,Não pode levar mais c6Obra anônimac7.
+GROUP05.BIN,0x20EBC,c6Erva-de-Benkeic7 obtida!,c6Erva Benkeic7 obtida!
+GROUP05.BIN,0x20ED8,Não pode levar mais c6Ervas-de-Benkeic7.,Não pode levar mais c6Erva Benkeic7.
+GROUP06.BIN,0x32CE0,Yahiko tomou o c6antídotoc7!,Yahiko tomou o c6Antídotoc7!
+GROUP06.BIN,0x33ADC,Você obteve o c6Fragmento I-3c7!,Você obteve o c6Frag. I-3c7!
+GROUP06.BIN,0x33DB8,Você obteve a c6flor amarelac7!,Você obteve a c6Flor amarelac7!
+GROUP06.BIN,0x346A4,Você obteve o c6mochi kashiwac7!,Você obteve o c6Kashiwac7!
+GROUP07.BIN,0x1B8C0,c6Erva Couro-de-Boic7 obtida!,c6Erva de couroc7 obtida!
+GROUP07.BIN,0x1B8E0,c6Capa de amiantoc7 obtida!,c6Capa amiantoc7 obtida!
+GROUP07.BIN,0x1B8FC,c6Tenmondoc7 obtido!,c6Raiz aspargoc7!
+GROUP08.BIN,0x15D14,Obteve c6alga verdec7!,Obteve c6Alga verdec7!
+GROUP08.BIN,0x15D2C,Obteve c6alga amarelac7!,Obteve c6Alga amarelac7!
+GROUP08.BIN,0x15D48,Obteve c6alga marromc7!,Obteve c6Alga marromc7!
+GROUP08.BIN,0x15D60,Obteve c6alga azulc7!,Obteve c6Alga azulc7!
+GROUP08.BIN,0x15FBC,Obteve c6Carta de Aoshic7!,Obteve c6Carta Aoshic7!
+GROUP08.BIN,0x15FD8,Obteve c6Luvas de couroc7!,Obteve c6Luvas couroc7!
+GROUP08.BIN,0x1600C,Não pode carregar mais c6bandanasc7.,Não pode carregar mais c6Faixac7.
+GROUP09.BIN,0x1C3C8,c6Kit de viagemc7 obtido!,c6Kit viagemc7 obtido!
+GROUP09.BIN,0x1C3E4,c6Manual secretoc7 obtido!,c6Seg. marcialc7 obtido!
+GROUP09.BIN,0x1C400,c6Luvas de couroc7 obtidas!,c6Luvas couroc7 obtidas!
+GROUP09.BIN,0x1C444,c6Kit de viagemc7 está cheio.,c6Kit viagemc7 está cheio.
+GROUP09.BIN,0x1C464,c6Manual secretoc7 está cheio.,c6Seg. marcialc7 está cheio.
+GROUP09.BIN,0x1C484,c6Luvas de couroc7 estão cheias.,c6Luvas couroc7 estão cheias.
+GROUP09.BIN,0x1C540,c6Talismã de prontidãoc7 obtido!,c6Amul. táticoc7 obtido!
+GROUP09.BIN,0x1C564,c6Talismã de prontidãoc7 está cheio.,c6Amul. táticoc7 está cheio.
+GROUP09.BIN,0x1C58C,c6Erva Couro-de-Boic7 obtida!,c6Erva de couroc7 obtida!
+GROUP09.BIN,0x1C5AC,c6Erva Couro-de-Boic7 está cheia.,c6Erva de couroc7 está cheia.
+GROUP09.BIN,0x1C5D0,c6Ryokuhakuganc7 obtido!,c6Pílula verdec7 obtida!
+GROUP09.BIN,0x1C5EC,c6Ryokuhakuganc7 está cheio.,c6Pílula verdec7 está cheia.
+GROUP10.BIN,0x2D9A4,c6Flor do jardimc7 colhida!,c6Flor subsoloc7 colhida!
+GROUP10.BIN,0x2E550,c6Senha Ro-2c7 obtida!!,c6Frag. Ro-2c7 obtido!!
+GROUP10.BIN,0x2EB88,c6Comprimido de erva-tigrec7 obtido!,c6Píl. Itadoric7 obtida!
+GROUP10.BIN,0x2EBCC,c6Manual de estratégiac7 obtido!,c6Guia marcialc7 obtido!
+GROUP10.BIN,0x2EBF0,c6Manual de estratégiac7 obtido!,c6Guia marcialc7 obtido!
+GROUP10.BIN,0x2EC14,c6Kit de viagemc7 obtido!,c6Kit viagemc7 obtido!
+GROUP10.BIN,0x2EC30,c6Extrato amareloc7 obtido!,c6Erva amarelac7 obtida!
+GROUP10.BIN,0x2EC4C,c6Manual de estratégiac7 obtido!,c6Guia marcialc7 obtido!
+GROUP10.BIN,0x2EC70,c6Extrato amareloc7 obtido!,c6Erva amarelac7 obtida!
+GROUP10.BIN,0x2EC8C,c6Capote de amiantoc7 obtido!,c6Capa amiantoc7 obtida!
+GROUP10.BIN,0x2ECC0,c6Erva de Benkeic7 obtida!,c6Erva Benkeic7 obtida!
+GROUP10.BIN,0x2ECDC,c6Erva couro-de-boic7 obtida!,c6Erva de couroc7 obtida!
+GROUP10.BIN,0x2ECFC,c6Bokken octogonalc7 obtido!,c6Bokken octog.c7 obtido!
+GROUP10.BIN,0x2ED1C,c6Comprimido rubroc7 obtido!,c6Pílula rubrac7 obtida!
+GROUP10.BIN,0x2ED3C,c6Aspargo selvagemc7 obtido!,c6Raiz aspargoc7 obtida!
+GROUP10.BIN,0x2ED5C,c6Protetor de testac7 obtido!,c6Hachiganec7 obtido!
+GROUP10.BIN,0x2EDA4,c6Manual de estratégiac7 obtido!,c6Guia marcialc7 obtido!
+GROUP10.BIN,0x2EDDC,c6Bokken de bétulac7 obtido!,c6Bokken bétulac7 obtido!
+GROUP10.BIN,0x2EDFC,c6Guia de estratégiac7 obtido!,c6Guia marcialc7 obtido!
+GROUP10.BIN,0x2EE2C,c6Comprimido de erva-tigrec7 não cabe mais na bolsa.,c6Píl. Itadoric7 não cabe mais na bolsa.
+GROUP10.BIN,0x2EE90,c6Manual de estratégiac7 não cabe mais na bolsa.,c6Guia marcialc7 não cabe mais na bolsa.
+GROUP10.BIN,0x2EEC4,c6Manual de estratégiac7 não cabe mais na bolsa.,c6Guia marcialc7 não cabe mais na bolsa.
+GROUP10.BIN,0x2EEF8,c6Kit de viagemc7 não cabe mais na bolsa.,c6Kit viagemc7 não cabe mais na bolsa.
+GROUP10.BIN,0x2EF24,c6Extrato amareloc7 não cabe mais na bolsa.,c6Erva amarelac7 não cabe mais na bolsa.
+GROUP10.BIN,0x2EF54,c6Manual de estratégiac7 não cabe mais na bolsa.,c6Guia marcialc7 não cabe mais na bolsa.
+GROUP10.BIN,0x2EF88,c6Extrato amareloc7 não cabe mais na bolsa.,c6Erva amarelac7 não cabe mais na bolsa.
+GROUP10.BIN,0x2EFB8,c6Capote de fio de ferroc7 não cabe mais na bolsa.,c6Capa de ferroc7 não cabe mais na bolsa.
+GROUP10.BIN,0x2F010,c6Erva de Benkeic7 não cabe mais na bolsa.,c6Erva Benkeic7 não cabe mais na bolsa.
+GROUP10.BIN,0x2F03C,c6Erva couro-de-boic7 não cabe mais na bolsa.,c6Erva de couroc7 não cabe mais na bolsa.
+GROUP10.BIN,0x2F06C,c6Traje de vanguardac7 não cabe mais na bolsa.,c6Guarn. vang.c7 não cabe mais na bolsa.
+GROUP10.BIN,0x2F09C,c6Comprimido rubroc7 não cabe mais na bolsa.,c6Pílula rubrac7 não cabe mais na bolsa.
+GROUP10.BIN,0x2F0CC,c6Aspargo selvagemc7 não cabe mais na bolsa.,c6Raiz aspargoc7 não cabe mais na bolsa.
+GROUP10.BIN,0x2F0FC,c6Protetor de testac7 não cabe mais na bolsa.,c6Hachiganec7 não cabe mais na bolsa.
+GROUP10.BIN,0x2F174,c6Manual de estratégiac7 não cabe mais na bolsa.,c6Guia marcialc7 não cabe mais na bolsa.
+GROUP10.BIN,0x2F1CC,c6Bokken de bétulac7 não cabe mais na bolsa.,c6Bokken bétulac7 não cabe mais na bolsa.
+GROUP10.BIN,0x2F1FC,c6Guia de estratégiac7 não cabe mais na bolsa.,c6Guia marcialc7 não cabe mais na bolsa.
+GROUP10.BIN,0x2F2CC,c6Amuleto da prontidãoc7 obtido!,c6Amul. táticoc7 obtido!
+GROUP10.BIN,0x2F2F0,c6Amuleto da prontidãoc7 não cabe mais na bolsa.,c6Amul. táticoc7 não cabe mais na bolsa.
+GROUP10.BIN,0x2F324,c6Erva couro-de-boic7 obtida!,c6Erva de couroc7 obtida!
+GROUP10.BIN,0x2F344,c6Erva couro-de-boic7 não cabe mais na bolsa.,c6Erva de couroc7 não cabe mais na bolsa.
+GROUP10.BIN,0x2F3E4,c6Grão de damascoc7 obtido!,c6Grão damascoc7 obtido!
+GROUP10.BIN,0x2F404,c6Grão de damascoc7 não cabe mais na bolsa.,c6Grão damascoc7 não cabe mais na bolsa.
+GROUP10.BIN,0x2F434,c6Amuleto da prontidãoc7 obtido!,c6Amul. táticoc7 obtido!
+GROUP10.BIN,0x2F458,c6Amuleto da prontidãoc7 não cabe mais na bolsa.,c6Amul. táticoc7 não cabe mais na bolsa.
+GROUP11.BIN,0x347CC,c6Floresc7 oferecidas ao túmulo!,c6Florc7 oferecida ao túmulo!
+GROUP11.BIN,0x349C8,c6Pílula Verdec7 obtida!,c6Pílula verdec7 obtida!
+GROUP11.BIN,0x349F8,c6Amuleto Táticoc7 obtido!,c6Amul. táticoc7 obtido!
+GROUP11.BIN,0x34A44,c6Pílula Verdec7^cVocê não pode carregar mais.,c6Pílula verdec7^cVocê não pode carregar mais.
+GROUP11.BIN,0x34AA4,c6Amuleto Táticoc7^cVocê não pode carregar mais.,c6Amul. táticoc7^cVocê não pode carregar mais.
+GROUP13.BIN,0x40924,Quer receber a Flor rosada?^s,Quer receber a Flor rosa?^s
+GROUP13.BIN,0x40944,c6Flor rosadac7 obtida!,c6Flor rosac7 obtida!
+GROUP13.BIN,0x40E2C,c6Bolacha de arrozc7 obtida!,c6Senbeic7 obtido!
+GROUP14.BIN,0x432CC,c6Caderno de notasc7 encontrado!,c6Cadernoc7 encontrado!
+GROUP14.BIN,0x432F0,"Kaoru^c Acho que é isto... Vejamos.^c ""Caderno de notas da família^c Nanri""... Parece uma espécie de^c diário do pai da Saori.","Kaoru^c Acho que é isto... Vejamos.^c ""Caderno da família^c Nanri""... Parece uma espécie de^c diário do pai da Saori."
+GROUP14.BIN,0x43944,c6Selo I-1c7 obtido!!,c6Frag. I-1c7 obtido!!
+GROUP14.BIN,0x43D30,Hitomi^c Que febre alta! Ele precisa tomar^c um remédio depressa! Uma Pílula^c Jintan faria a febre baixar...,Hitomi^c Que febre alta! Ele precisa tomar^c um remédio depressa! Um Jintan^c faria a febre baixar...
+GROUP14.BIN,0x43DA0,"Hitomi^c Ei, vocês têm uma Pílula Jintan?^c Se tiverem, poderiam dá-la a este^c viajante?^s","Hitomi^c Ei, vocês têm um Jintan?^c Se tiverem, poderiam dá-lo a este^c viajante?^s"
+GROUP14.BIN,0x43FB4,c6Pílula Jintanc7 administrada!,c6Jintanc7 administrado!
+GROUP16.BIN,0x29EEC,c6Kiku Ichimonjic7 obtida!,c6Ichimonjic7 obtida!
+GROUP16.BIN,0x29FCC,c6Ryokuhakumaruc7 obtida!,c6Pílula verdec7 obtida!
+GROUP16.BIN,0x29FE8,c6Cota de malhac7 obtida!,c6Cota malhac7 obtida!
+GROUP16.BIN,0x2A02C,c6Cota de amiantoc7 obtida!,c6Cota amiantoc7 obtida!
+GROUP16.BIN,0x2A048,c6Pílula Jahatsuc7 obtida!,c6Pílula cobrac7 obtida!
+GROUP16.BIN,0x2A064,c6Pílula Kojoc7 obtida!,c6Píl. Itadoric7 obtida!
+GROUP16.BIN,0x2A080,c6Bokken de Ébanoc7 obtido!,c6Bokken ébanoc7 obtido!
+GROUP16.BIN,0x2A0B4,Não cabe mais c6Lápis-lazúlic7.,Não cabe mais c6Lazúlic7.
+GROUP16.BIN,0x2A0D8,Não cabe mais c6Ryokuhakumaruc7.,Não cabe mais c6Pílula verdec7.
+GROUP16.BIN,0x2A0FC,Não cabe mais c6Cota de malhac7.,Não cabe mais c6Cota malhac7.
+GROUP16.BIN,0x2A13C,Não cabe mais c6Lápis-lazúlic7.,Não cabe mais c6Lazúlic7.
+GROUP16.BIN,0x2A160,Não cabe mais c6Cota de amiantoc7.,Não cabe mais c6Cota amiantoc7.
+GROUP16.BIN,0x2A184,Não cabe mais c6Pílula Jahatsuc7.,Não cabe mais c6Pílula cobrac7.
+GROUP16.BIN,0x2A1A8,Não cabe mais c6Pílula Kojoc7.,Não cabe mais c6Píl. Itadoric7.
+GROUP16.BIN,0x2A1CC,Não cabe mais c6Bokken de Ébanoc7.,Não cabe mais c6Bokken ébanoc7.
+GROUP17.BIN,0xE980,c6Selo Ha-3c7 obtido!!,c6Frag. Ha-3c7 obtido!!
+GROUP17.BIN,0xEC50,c6Erva Amarelac7 obtida!,c6Erva amarelac7 obtida!
+GROUP17.BIN,0xEC6C,c6Erva Couro-de-Boic7 obtida!,c6Erva de couroc7 obtida!
+GROUP17.BIN,0xEC8C,c6Amuleto Táticoc7 obtido!,c6Amul. táticoc7 obtido!
+GROUP17.BIN,0xECA8,c6Osafune Kiyomitsuc7 obtida!,c6Kiyomitsuc7 obtida!
+GROUP17.BIN,0xECC8,c6Pílula Itadoric7 obtida!,c6Píl. Itadoric7 obtida!
+GROUP17.BIN,0xECE4,c6Pílula de Rubiac7 obtida!,c6Pílula rubrac7 obtida!
+GROUP17.BIN,0xED04,c6Pílula Carvalho Verdec7 obtida!,c6Pílula verdec7 obtida!
+GROUP17.BIN,0xED3C,c6Guia de Estratégiac7 obtido!,c6Guia marcialc7 obtido!
+GROUP17.BIN,0xED5C,c6Tratado de Estratégiac7 obtido!,c6Seg. marcialc7 obtido!
+GROUP17.BIN,0xED94,c6Pílula Barba-de-Cobrac7 obtida!,c6Pílula cobrac7 obtida!
+GROUP17.BIN,0xEDB8,c6Raiz de Aspargoc7 obtida!,c6Raiz aspargoc7 obtida!
+GROUP17.BIN,0xEDE8,Não há espaço para mais^cc6Erva Couro-de-Boic7.,Não há espaço para mais^cc6Erva de couroc7.
+GROUP17.BIN,0xEE1C,Não há espaço para mais^cc6Osafune Kiyomitsuc7.,Não há espaço para mais^cc6Kiyomitsuc7.
+GROUP17.BIN,0xEE50,Não há espaço para mais^cc6Pílula Itadoric7.,Não há espaço para mais^cc6Píl. Itadoric7.
+GROUP17.BIN,0xEE84,Não há espaço para mais^cc6Pílula Carvalho Verdec7.,Não há espaço para mais^cc6Pílula verdec7.
+GROUP17.BIN,0xEEBC,Não há espaço para mais^cc6Guia de Estratégiac7.,Não há espaço para mais^cc6Guia marcialc7.
+GROUP17.BIN,0xEEF4,Não há espaço para mais^cc6Tratado de Estratégiac7.,Não há espaço para mais^cc6Seg. marcialc7.
+GROUP17.BIN,0xEF7C,Não há espaço para mais^cc6Pílula Barba-de-Cobrac7.,Não há espaço para mais^cc6Pílula cobrac7.
+GROUP17.BIN,0xEFB4,Não há espaço para mais^cc6Erva Amarelac7.,Não há espaço para mais^cc6Erva amarelac7.
+GROUP17.BIN,0xEFE4,Não há espaço para mais^cc6Pílula de Rubiac7.,Não há espaço para mais^cc6Pílula rubrac7.
+GROUP17.BIN,0xF018,Não há espaço para mais^cc6Raiz de Aspargoc7.,Não há espaço para mais^cc6Raiz aspargoc7.
+GROUP17.BIN,0xF04C,Não há espaço para mais^cc6Amuleto Táticoc7.,Não há espaço para mais^cc6Amul. táticoc7.
+GROUP17.BIN,0xF110,c6Pílula Itadoric7 obtida!,c6Píl. Itadoric7 obtida!
+GROUP17.BIN,0xF12C,Não há espaço para mais^cc6Pílula Itadoric7.,Não há espaço para mais^cc6Píl. Itadoric7.
+GROUP17.BIN,0xF160,c6Pílula de Rubiac7 obtida!,c6Pílula rubrac7 obtida!
+GROUP17.BIN,0xF180,Não há espaço para mais^cc6Pílula de Rubiac7.,Não há espaço para mais^cc6Pílula rubrac7.
+GROUP17.BIN,0xF1B4,c6Erva-de-Benkeic7 obtida!,c6Erva Benkeic7 obtida!
+GROUP17.BIN,0xF1D0,Não há espaço para mais^cc6Erva-de-Benkeic7.,Não há espaço para mais^cc6Erva Benkeic7.
+GROUP17.BIN,0xF200,c6Pílula Casco-de-Carneiroc7 obtida!,c6Pílula azedac7 obtida!
+GROUP17.BIN,0xF228,Não há espaço para mais^cc6Pílula Casco-de-Carneiroc7.,Não há espaço para mais^cc6Pílula azedac7.
+GROUP17.BIN,0xF264,c6Pílula Jahatsuc7 obtida!,c6Pílula cobrac7 obtida!
+GROUP17.BIN,0xF280,Não há espaço para mais^cc6Pílula Jahatsuc7.,Não há espaço para mais^cc6Pílula cobrac7.
+GROUP17.BIN,0xF2B4,c6Amuleto Táticoc7 obtido!,c6Amul. táticoc7 obtido!
+GROUP17.BIN,0xF2D0,Não há espaço para mais^cc6Amuleto Táticoc7.,Não há espaço para mais^cc6Amul. táticoc7.
+GROUP17.BIN,0xF304,c6Pílula Casco-de-Carneiroc7 obtida!,c6Pílula azedac7 obtida!
+GROUP17.BIN,0xF32C,Não há espaço para mais^cc6Pílula Casco-de-Carneiroc7.,Não há espaço para mais^cc6Pílula azedac7.
+GROUP17.BIN,0xF368,c6Erva Couro-de-Boic7 obtida!,c6Erva de couroc7 obtida!
+GROUP17.BIN,0xF388,Não há espaço para mais^cc6Erva Couro-de-Boic7.,Não há espaço para mais^cc6Erva de couroc7.
+GROUP18.BIN,0x1CF20,c6Tratado de Estratégiac7 obtido!,c6Seg. marcialc7 obtido!
+GROUP18.BIN,0x1CF44,c6Lápis-lazúlic7 obtido!,c6Lazúlic7 obtido!
+GROUP18.BIN,0x1CF60,c6Erva-benkeic7 obtida!,c6Erva Benkeic7 obtida!
+GROUP18.BIN,0x1CF78,c6Cota de amiantoc7 obtida!,c6Cota amiantoc7 obtida!
+GROUP18.BIN,0x1CF94,c6Pílula Carvalho Verdec7 obtida!,c6Pílula verdec7 obtida!
+GROUP18.BIN,0x1CFB8,c6Amuleto Táticoc7 obtido!,c6Amul. táticoc7 obtido!
+GROUP18.BIN,0x1CFE8,c6Erva Couro-de-Boic7 obtida!,c6Erva de couroc7 obtida!
+GROUP18.BIN,0x1D048,Não há espaço para mais^cc6Tratado de Estratégiac7.,Não há espaço para mais^cc6Seg. marcialc7.
+GROUP18.BIN,0x1D080,Não há espaço para mais^cc6Lápis-lazúlic7.,Não há espaço para mais^cc6Lazúlic7.
+GROUP18.BIN,0x1D0B0,Não há espaço para mais^cc6Erva-benkeic7.,Não há espaço para mais^cc6Erva Benkeic7.
+GROUP18.BIN,0x1D0E0,Não há espaço para mais^cc6Cota de amiantoc7.,Não há espaço para mais^cc6Cota amiantoc7.
+GROUP18.BIN,0x1D114,Não há espaço para mais^cc6Pílula Carvalho Verdec7.,Não há espaço para mais^cc6Pílula verdec7.
+GROUP18.BIN,0x1D14C,Não há espaço para mais^cc6Amuleto Táticoc7.,Não há espaço para mais^cc6Amul. táticoc7.
+GROUP18.BIN,0x1D1A8,Não há espaço para mais^cc6Erva Couro-de-Boic7.,Não há espaço para mais^cc6Erva de couroc7.
+GROUP21.BIN,0xE168,c6Selo Ha-2c7 obtido!!c7,c6Frag. Ha-2c7 obtido!!c7
+GROUP22.BIN,0x1F038,c6Chave da Florc7 obtida!,c6Chave florc7 obtida!
+GROUP22.BIN,0x1F054,c6Chave do Pássaroc7 obtida!,c6Chave pássaroc7 obtida!
+GROUP22.BIN,0x1F074,c6Chave do Ventoc7 obtida!,c6Chave ventoc7 obtida!
+GROUP22.BIN,0x1F090,c6Chave da Luac7 obtida!,c6Chave luac7 obtida!
+GROUP22.BIN,0x1F0AC,c6Chave da Nevec7 obtida!,c6Chave nevec7 obtida!
+GROUP22.BIN,0x1F0C8,c6Chave da Terrac7 obtida!,c6Chave terrac7 obtida!
+GROUP22.BIN,0x1F0E4,c6Chave da Águac7 obtida!,c6Chave águac7 obtida!
+GROUP22.BIN,0x1F100,c6Chave do Fogoc7 obtida!,c6Chave fogoc7 obtida!
+GROUP22.BIN,0x1F580,Kaoru^c J-já sei! Use aquela bola de^c cristal!,Kaoru^c J-já sei! Use aquele cristal^c!
+GROUP22.BIN,0x1F9B8,c6Selo I-2c7 obtido!!,c6Frag. I-2c7 obtido!!
+GROUP22.BIN,0x1FA78,c6Guia de Estratégiac7 obtido!,c6Guia marcialc7 obtido!
+GROUP22.BIN,0x1FA98,c6Erva Couro-de-Boic7 obtida!,c6Erva de couroc7 obtida!
+GROUP22.BIN,0x1FAB8,c6Tratado de Estratégiac7 obtido!,c6Seg. marcialc7 obtido!
+GROUP22.BIN,0x1FADC,c6Amuleto Táticoc7 obtido!,c6Amul. táticoc7 obtido!
+GROUP22.BIN,0x1FB0C,c6Pílula Carvalho Verdec7 obtida!,c6Pílula verdec7 obtida!
+GROUP22.BIN,0x1FB30,c6Pílula Barba-de-Cobrac7 obtida!,c6Pílula cobrac7 obtida!
+GROUP22.BIN,0x1FB68,c6Pílula Itadoric7 obtida!,c6Píl. Itadoric7 obtida!
+GROUP22.BIN,0x1FB98,c6Pílula Carvalho Verdec7 obtida!,c6Pílula verdec7 obtida!
+GROUP23.BIN,0x15650,c6Kogarasu Maruc7 obtida!,c6Kogarasuc7 obtida!
+GROUP23.BIN,0x1566C,c6Amuleto Táticoc7 obtido!,c6Amul. táticoc7 obtido!
+GROUP23.BIN,0x15688,c6Feijão de Bambuc7 obtido!,c6Grão damascoc7 obtido!
+GROUP23.BIN,0x156A8,c6Pílula Carvalho Verdec7 obtida!,c6Pílula verdec7 obtida!
+GROUP23.BIN,0x156CC,c6Pílula de Rubiac7 obtida!,c6Pílula rubrac7 obtida!
+GROUP23.BIN,0x156EC,c6Amuleto Táticoc7 obtido!,c6Amul. táticoc7 obtido!
+GROUP23.BIN,0x15730,c6Pílula Carvalho Verdec7 obtida!,c6Pílula verdec7 obtida!
+GROUP23.BIN,0x15754,c6Kiku Ichimonjic7 obtida!,c6Ichimonjic7 obtida!
+GROUP23.BIN,0x15770,c6Pílula de Rubiac7 obtida!,c6Pílula rubrac7 obtida!
+GROUP23.BIN,0x15790,c6Erva-de-Benkeic7 obtida!,c6Erva Benkeic7 obtida!
+GROUP23.BIN,0x157C0,c6Pílula Casco-de-Carneiroc7 obtida!,c6Pílula azedac7 obtida!
+GROUP23.BIN,0x15800,c6Erva Couro-de-Boic7 obtida!,c6Erva de couroc7 obtida!
+GROUP23.BIN,0x15820,c6Pílula Carvalho Verdec7 obtida!,c6Pílula verdec7 obtida!
+GROUP23.BIN,0x15844,c6Pílula Casco-de-Carneiroc7 obtida!,c6Pílula azedac7 obtida!
+GROUP23.BIN,0x1586C,c6Pílula Casco-de-Carneiroc7 obtida!,c6Pílula azedac7 obtida!
+GROUP23.BIN,0x158A8,Sem espaço:^cc6Kogarasu Maruc7.,Sem espaço:^cc6Kogarasuc7.
+GROUP23.BIN,0x158CC,Sem espaço:^cc6Amuleto Táticoc7.,Sem espaço:^cc6Amul. táticoc7.
+GROUP23.BIN,0x158F0,Sem espaço:^cc6Feijão de Bambuc7.,Sem espaço:^cc6Grão damascoc7.
+GROUP23.BIN,0x15914,Sem espaço:^cc6Pílula Carvalho Verdec7.,Sem espaço:^cc6Pílula verdec7.
+GROUP23.BIN,0x15940,Sem espaço:^cc6Pílula de Rubiac7.,Sem espaço:^cc6Pílula rubrac7.
+GROUP23.BIN,0x15964,Sem espaço:^cc6Amuleto Táticoc7.,Sem espaço:^cc6Amul. táticoc7.
+GROUP23.BIN,0x159B8,Sem espaço:^cc6Pílula Carvalho Verdec7.,Sem espaço:^cc6Pílula verdec7.
+GROUP23.BIN,0x159E4,Sem espaço:^cc6Kiku Ichimonjic7.,Sem espaço:^cc6Ichimonjic7.
+GROUP23.BIN,0x15A08,Sem espaço:^cc6Pílula de Rubiac7.,Sem espaço:^cc6Pílula rubrac7.
+GROUP23.BIN,0x15A2C,Sem espaço:^cc6Erva-de-Benkeic7.,Sem espaço:^cc6Erva Benkeic7.
+GROUP23.BIN,0x15A68,Sem espaço:^cc6Pílula Casco-de-Carneiroc7.,Sem espaço:^cc6Pílula azedac7.
+GROUP23.BIN,0x15AB4,Sem espaço:^cc6Erva Couro-de-Boic7.,Sem espaço:^cc6Erva de couroc7.
+GROUP23.BIN,0x15ADC,Sem espaço:^cc6Pílula Carvalho Verdec7.,Sem espaço:^cc6Pílula verdec7.
+GROUP23.BIN,0x15B08,Sem espaço:^cc6Pílula Casco-de-Carneiroc7.,Sem espaço:^cc6Pílula azedac7.
+GROUP23.BIN,0x15B38,Sem espaço:^cc6Pílula Casco-de-Carneiroc7.,Sem espaço:^cc6Pílula azedac7.
+GROUP24.BIN,0x48100,c6Pílula de Rubiac7 obtida!,c6Pílula rubrac7 obtida!
+GROUP24.BIN,0x4A160,c6Pílula de Rubiac7 obtida!,c6Pílula rubrac7 obtida!
+GROUP24.BIN,0x4A304,c6Pílula de Rubiac7 obtida!,c6Pílula rubrac7 obtida!
+GROUP24.BIN,0x4A470,c6Carta da cantorac7 obtida!,c6Carta cantorac7 obtida!
+GROUP24.BIN,0x4AD5C,c6Pílula de Rubiac7 obtida!,c6Pílula rubrac7 obtida!
+GROUP24.BIN,0x4D420,c6Pílula de Rubiac7 obtida!,c6Pílula rubrac7 obtida!
+GROUP24.BIN,0x4DCB8,c6Pílula de Rubiac7 obtida!,c6Pílula rubrac7 obtida!
+GROUP24.BIN,0x4E794,c6Tintura hemostáticac7 obtida!,c6Tinturac7 obtida!
+GROUP24.BIN,0x52C18,c6Erva-benkeic7 obtida.,c6Erva Benkeic7 obtida.
+GROUP25.BIN,0x4B5B4,"Ikuno^c Você quer a flor roxa?^c Se for troca por casco de tartaruga, eu topo.","Ikuno^c Você quer a flor roxa?^c Se for troca por casco, eu topo."
+GROUP25.BIN,0x4B62C,Ikuno^c Você não tem casco de tartaruga nenhum.,Ikuno^c Você não tem casco nenhum.
+GROUP25.BIN,0x4C724,"Taizo^c Se conseguirem casco de tartaruga ou pérola,^c o melhor é passar^c na loja de ferramentas.","Taizo^c Se conseguirem casco ou pérola,^c o melhor é passar^c na loja de ferramentas."
+GROUP26.BIN,0x2AFF4,c6Remédio da Megumic7 usado!,c6Rem. Megumic7 usado!
+GROUP26.BIN,0x2B060,c6Erva-de-Benkeic7 obtida!,c6Erva Benkeic7 obtida!
+GROUP26.BIN,0x2B07C,Sem espaço:^cc6Erva-de-Benkeic7.,Sem espaço:^cc6Erva Benkeic7.
+GROUP26.BIN,0x2B0A0,c6Pílula Jahatsuc7 obtida!,c6Pílula cobrac7 obtida!
+GROUP26.BIN,0x2B0BC,Sem espaço:^cc6Pílula Jahatsuc7.,Sem espaço:^cc6Pílula cobrac7.
+GROUP26.BIN,0x2B0E0,c6Erva Couro-de-Boic7 obtida!,c6Erva de couroc7 obtida!
+GROUP26.BIN,0x2B100,Sem espaço:^cc6Erva Couro-de-Boic7.,Sem espaço:^cc6Erva de couroc7.
+GROUP26.BIN,0x2B128,c6Pílula Jahatsuc7 obtida!,c6Pílula cobrac7 obtida!
+GROUP26.BIN,0x2B144,Sem espaço:^cc6Pílula Jahatsuc7.,Sem espaço:^cc6Pílula cobrac7.
+GROUP26.BIN,0x2B168,c6Pílula Itadoric7 obtida!,c6Píl. Itadoric7 obtida!
+GROUP26.BIN,0x2B184,Sem espaço:^cc6Pílula Itadoric7.,Sem espaço:^cc6Píl. Itadoric7.
+GROUP26.BIN,0x2B1A8,c6Pílula Casco-de-Carneiroc7 obtida!,c6Pílula azedac7 obtida!
+GROUP26.BIN,0x2B1D0,Sem espaço:^cc6Pílula Casco-de-Carneiroc7.,Sem espaço:^cc6Pílula azedac7.
+GROUP26.BIN,0x2B200,c6Kogarasu Maruc7 obtida!,c6Kogarasuc7 obtida!
+GROUP26.BIN,0x2B21C,Sem espaço:^cc6Kogarasu Maruc7.,Sem espaço:^cc6Kogarasuc7.
+GROUP26.BIN,0x2B240,c6Erva Couro-de-Boic7 obtida!,c6Erva de couroc7 obtida!
+GROUP26.BIN,0x2B260,Sem espaço:^cc6Erva Couro-de-Boic7.,Sem espaço:^cc6Erva de couroc7.
+GROUP27.BIN,0x28F4C,c6Selo Ha-1c7 obtido!!,c6Frag. Ha-1c7 obtido!!
+GROUP27.BIN,0x2A158,c6Erva Couro-de-Boic7 obtida!,c6Erva de couroc7 obtida!
+GROUP27.BIN,0x2A178,c6Pílula Itadoric7 obtida!,c6Píl. Itadoric7 obtida!
+GROUP27.BIN,0x2A194,c6Pílula Barba-de-Cobrac7 obtida!,c6Pílula cobrac7 obtida!
+GROUP27.BIN,0x2A1B8,c6Pílula Carvalho Verdec7 obtida!,c6Pílula verdec7 obtida!
+GROUP27.BIN,0x2A1DC,c6Feijão de Bambuc7 obtido!,c6Grão damascoc7 obtido!
+GROUP27.BIN,0x2A1FC,c6Pílula de Rubiac7 obtida!,c6Pílula rubrac7 obtida!
+GROUP27.BIN,0x2A260,c6Erva Couro-de-Boic7:^cvocê já carrega o máximo.,c6Erva de couroc7:^cvocê já carrega o máximo.
+GROUP27.BIN,0x2A298,c6Pílula Itadoric7:^cvocê já carrega o máximo.,c6Píl. Itadoric7:^cvocê já carrega o máximo.
+GROUP27.BIN,0x2A2CC,c6Pílula Barba-de-Cobrac7:^cvocê já carrega o máximo.,c6Pílula cobrac7:^cvocê já carrega o máximo.
+GROUP27.BIN,0x2A308,c6Pílula Carvalho Verdec7:^cvocê já carrega o máximo.,c6Pílula verdec7:^cvocê já carrega o máximo.
+GROUP27.BIN,0x2A344,c6Feijão de Bambuc7:^cvocê já carrega o máximo.,c6Grão damascoc7:^cvocê já carrega o máximo.
+GROUP27.BIN,0x2A378,c6Pílula de Rubiac7:^cvocê já carrega o máximo.,c6Pílula rubrac7:^cvocê já carrega o máximo.
+GROUP29.BIN,0x1762C,c6Selo Ha-3c7 obtido!!,c6Frag. Ha-3c7 obtido!!
+GROUP29.BIN,0x17860,c6Amuleto Táticoc7 obtido!,c6Amul. táticoc7 obtido!
+GROUP29.BIN,0x1787C,Não há espaço para mais^cc6Amuleto Táticoc7.,Não há espaço para mais^cc6Amul. táticoc7.
+GROUP29.BIN,0x17904,c6Amuleto Táticoc7 obtido!,c6Amul. táticoc7 obtido!
+GROUP29.BIN,0x17920,Não há espaço para mais^cc6Amuleto Táticoc7.,Não há espaço para mais^cc6Amul. táticoc7.
+GROUP37.BIN,0x19C68,Você obteve a c6Espada Kuji-kiric7!,Você obteve a c6Kuji-kiric7!
+GROUP37.BIN,0x19CEC,Você obteve c6Segredo Marcialc7!,Você obteve c6Seg. marcialc7!
+GROUP37.BIN,0x19D10,Você obteve c6Raiz de aspargoc7!,Você obteve c6Raiz aspargoc7!
+GROUP37.BIN,0x19D34,Você obteve c6Erva Mizosobac7!,Você obteve c6Erva de couroc7!
+GROUP37.BIN,0x19D54,Você obteve c6Guia Marcialc7!,Você obteve c6Guia marcialc7!
+GROUP37.BIN,0x19D74,Você obteve c6Pílula Jintanc7!,Você obteve c6Jintanc7!
+GROUP37.BIN,0x19E00,Não dá para carregar mais c6Segredo Marcialc7.,Não dá para carregar mais c6Seg. marcialc7.
+GROUP37.BIN,0x19E34,Não dá para carregar mais c6Raiz de aspargoc7.,Não dá para carregar mais c6Raiz aspargoc7.
+GROUP37.BIN,0x19E68,Não dá para carregar mais c6Erva Mizosobac7.,Não dá para carregar mais c6Erva de couroc7.
+GROUP37.BIN,0x19E98,Não dá para carregar mais c6Guia Marcialc7.,Não dá para carregar mais c6Guia marcialc7.
+GROUP37.BIN,0x19EC8,Não dá para carregar mais c6Pílula Jintanc7.,Não dá para carregar mais c6Jintanc7.
+GROUP39.BIN,0x1C464,Kenshin^c Ouvi dizer que há uma vila de^c ferreiros adiante. Por acaso^c existe lá um objeto chamado Livro^c das Chamas?,Kenshin^c Ouvi dizer que há uma vila de^c ferreiros adiante. Por acaso^c existe lá um objeto chamado Livro de^c Fogo?
+GROUP39.BIN,0x1CFCC,Guarda^c É o Livro das Chamas. Dizem que^c ele ensina a forjar uma espada^c extraordinária. Mas só os^c ferreiros desaparecidos desta^c vila conseguem decifrá-lo. Nem eu^c sei ler.,Guarda^c É o Livro de Fogo. Dizem que^c ele ensina a forjar uma espada^c extraordinária. Mas só os^c ferreiros desaparecidos desta^c vila conseguem decifrá-lo. Nem eu^c sei ler.
+GROUP39.BIN,0x1D174,Guarda^c Vocês pretendem levar o Livro das^c Chamas?,Guarda^c Vocês pretendem levar o Livro de^c Fogo?
+GROUP39.BIN,0x1D374,"Kenshin^c Livro das Chamas... Este servo^c veio para destruir este livro.^c Enquanto ele existir, mais sangue^c será derramado... é o que penso.","Kenshin^c Livro de Fogo... Este servo^c veio para destruir este livro.^c Enquanto ele existir, mais sangue^c será derramado... é o que penso."
+GROUP39.BIN,0x1D894,c6Livro das Chamasc7 encontrado!,c6Livro de Fogoc7 encontrado!
+GROUP39.BIN,0x1DA84,c6Livro das Chamasc7 entregue!,c6Livro de Fogoc7 entregue!
+GROUP39.BIN,0x1DCB8,Guarda^c Então vocês viram tudo...^c Takayuki-san levou o Livro das^c Chamas e foi para a Vila de^c Hasumi.,Guarda^c Então vocês viram tudo...^c Takayuki-san levou o Livro de^c Fogo e foi para a Vila de^c Hasumi.
+GROUP39.BIN,0x1DD28,Kenshin^c Ele foi à Vila de Hasumi com o^c Livro das Chamas? Será que^c pretende forjar uma espada?,Kenshin^c Ele foi à Vila de Hasumi com o^c Livro de Fogo? Será que^c pretende forjar uma espada?
+GROUP39.BIN,0x1DECC,Guarda^c Takayuki-san levou o Livro das^c Chamas e foi para a Vila de^c Hasumi.,Guarda^c Takayuki-san levou o Livro de^c Fogo e foi para a Vila de^c Hasumi.
+GROUP39.BIN,0x1DFDC,Kenshin^c Parece que você é capaz de ler o^c Livro das Chamas.,Kenshin^c Parece que você é capaz de ler o^c Livro de Fogo.
+GROUP39.BIN,0x1EA40,Kenshin^c O Livro das Chamas foi queimado.^c Agora não há mais nada prendendo^c você a este lugar.,Kenshin^c O Livro de Fogo foi queimado.^c Agora não há mais nada prendendo^c você a este lugar.
+GROUP39.BIN,0x1EAA8,Guarda^c O Livro das Chamas...? Entendo...,Guarda^c O Livro de Fogo...? Entendo...
+GROUP39.BIN,0x1ED08,"Takayuki^c Munetaka criou muitas espadas^c célebres, mas morreu sem concluir^c a última delas. O Livro das^c Chamas foi escrito por ele. Como^c tratar o aço, o formato da^c lâmina... O livro contém tudo^c sobre a espada lendária que nem^c aquele gênio conseguiu terminar.","Takayuki^c Munetaka criou muitas espadas^c célebres, mas morreu sem concluir^c a última delas. O Livro de^c Fogo foi escrito por ele. Como^c tratar o aço, o formato da^c lâmina... O livro contém tudo^c sobre a espada lendária que nem^c aquele gênio conseguiu terminar."
+GROUP39.BIN,0x1F00C,c6Livro das Chamasc7 recebido!,c6Livro de Fogoc7 recebido!
+GROUP39.BIN,0x1F02C,Kaoru^c O quê? Queimar o Livro das^c Chamas...?,Kaoru^c O quê? Queimar o Livro de^c Fogo...?
+GROUP39.BIN,0x1F164,Takayuki^c Eu conheço meu próprio estado. O^c Livro das Chamas... fica por^c conta de vocês...,Takayuki^c Eu conheço meu próprio estado. O^c Livro de Fogo... fica por^c conta de vocês...
+GROUP39.BIN,0x1F350,Kenshin^c Quer que queimemos o Livro das^c Chamas...,Kenshin^c Quer que queimemos o Livro de^c Fogo...
+GROUP39.BIN,0x1F3A0,"Kenshin^c ^N-dono, o Livro das^c Chamas...","Kenshin^c ^N-dono, o Livro de^c Fogo..."
+GROUP41.BIN,0x2A784,Kashiwa-mochi ^c,Kashiwa ^c
+GROUP41.BIN,0x2CD80,"Para que servia o importante item^c""Bola de Cristal""? ^s","Para que servia o importante item^c""Cristal""? ^s"
+GROUP41.BIN,0x2DA54,Tintura hemostática^c,Tintura^c
+GROUP41.BIN,0x2DA78,Erva-de-Benkei^c,Erva Benkei^c
+GROUP41.BIN,0x32BD0,Yahiko^c Ah! Isto é... uma sakabatou!?,Yahiko^c Ah! Isto é... uma sakabato!?
+GROUP41.BIN,0x32D84,c6Sakabatou Shinuchic7 obtida!,c6Sakabato Shinc7 obtida!
+GROUP41.BIN,0x332F8,c6Gato dourado da sortec7 obtido!,c6Gato douradoc7 obtido!
+GROUP41.BIN,0x3331C,c6Erva-de-benkeic7 obtida!,c6Erva Benkeic7 obtida!
+GROUP41.BIN,0x33338,c6Pílula da barba-de-cobrac7 obtida!,c6Pílula cobrac7 obtida!
+GROUP41.BIN,0x33360,c6Pílula de bambu-tigrec7 obtida!,c6Píl. Itadoric7 obtida!
+GROUP41.BIN,0x33384,c6Pílula de azedinhac7 obtida!,c6Pílula azedac7 obtida!
+GROUP42.BIN,0x3D7E8,Aceitar a flor rosada?^s,Aceitar a flor rosa?^s
+GROUP42.BIN,0x3D804,c6Flor rosadac7 obtida!,c6Flor rosac7 obtida!
+GROUP45.BIN,0x388A8,c6Selo Ha-3c7 obtido!!,c6Frag. Ha-3c7 obtido!!
+GROUP45.BIN,0x3E154,c6Erva Couro-de-Boic7 obtida!,c6Erva de couroc7 obtida!
+GROUP45.BIN,0x3E174,c6Cota de amiantoc7 obtida!,c6Cota amiantoc7 obtida!
+GROUP45.BIN,0x3E190,c6Pílula Barba-de-Cobrac7 obtida!,c6Pílula cobrac7 obtida!
+GROUP45.BIN,0x3E1B4,c6Erva Amarelac7 obtida!,c6Erva amarelac7 obtida!
+GROUP45.BIN,0x3E1D0,c6Óleo de Ursoc7 obtido!,c6Óleo de ursoc7 obtido!
+GROUP45.BIN,0x3E224,Não há espaço para mais^cc6Erva Couro-de-Boic7.,Não há espaço para mais^cc6Erva de couroc7.
+GROUP45.BIN,0x3E258,Não há espaço para mais^cc6Cota de amiantoc7.,Não há espaço para mais^cc6Cota amiantoc7.
+GROUP45.BIN,0x3E28C,Não há espaço para mais^cc6Pílula Barba-de-Cobrac7.,Não há espaço para mais^cc6Pílula cobrac7.
+GROUP45.BIN,0x3E2C4,Não há espaço para mais^cc6Erva Amarelac7.,Não há espaço para mais^cc6Erva amarelac7.
+GROUP45.BIN,0x3E2F4,Não há espaço para mais^cc6Óleo de Ursoc7.,Não há espaço para mais^cc6Óleo de ursoc7.
+GROUP46.BIN,0x1A138,Você obteve o c6Fruto Rosadoc7!,Você obteve o c6Fruto rosac7!
+GROUP46.BIN,0x1A15C,Quer pegar o Fruto Rosado?^s,Quer pegar o Fruto rosa?^s
+GROUP46.BIN,0x1A17C,Sanosuke^c Esse Fruto Rosado parece gostoso!,Sanosuke^c Esse Fruto rosa parece gostoso!
+GROUP47.BIN,0x33BC8,c6Meladoc7 obtido!,c6Mizuamec7 obtido!
+GROUP47.BIN,0x33FB0,Hitomi^c Que febre! Ele precisa de uma^c Pílula Jintan para melhorar...,Hitomi^c Que febre! Ele precisa de um^c Jintan para melhorar...
+GROUP47.BIN,0x33FFC,Hitomi^c Vocês têm uma Pílula Jintan?^c Poderiam dar uma a este viajante?^s,Hitomi^c Vocês têm um Jintan?^c Poderiam dar um a este viajante?^s
+GROUP47.BIN,0x34200,c6Pílula Jintanc7 administrada!,c6Jintanc7 administrado!
+GROUP50.BIN,0x3EF68,Deu c6florc7 para Tsubame!,Deu c6Florc7 para Tsubame!
+GROUP50.BIN,0x3EFCC,Deu c6florc7 para Tsubame!,Deu c6Florc7 para Tsubame!
